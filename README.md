@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done with the help of [cleverprogrammers](https://www.youtube.com/c/CleverProgrammer)
 
 ## Need these 
 Node.js
@@ -13,6 +13,7 @@ Firebase Account[firebase](https://firebase.google.com/)
 git clone https://github.com/VNDhanush/amazon-clone.git
 
 Run npm install -g firebase-tools(https://firebase.google.com/docs/cli#mac-linux-npm)
+
 Run npm install react-rounter-dom 
 
 
@@ -55,5 +56,6 @@ Your app is ready to be deployed!
 
 
 ### Run `firebase deploy`
+
 Your application is deployed.
 
