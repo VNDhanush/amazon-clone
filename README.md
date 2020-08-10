@@ -1,4 +1,4 @@
-This project was done with the help of [cleverprogrammers](https://www.youtube.com/c/CleverProgrammer)
+This project was done by [cleverprogrammers](https://www.youtube.com/c/CleverProgrammer) which I have tried coding watching their stream and got it working too.
 
 ## Need these 
 Node.js
